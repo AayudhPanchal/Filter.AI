@@ -1,7 +1,8 @@
-./core/Dataset/*
-./core/demo_processed/*
-./core/musdb18_processed/*
+core/Dataset
+core/demo_processed
+core/musdb18_processed
 
-./Material/*
+Material
 
 preprocessing_plan.txt
+training_plan.txt
