@@ -1,8 +1,10 @@
+.vscode
+
 core/Dataset
 core/demo_processed
 core/musdb18_processed
-
 Material
-
+venv
 preprocessing_plan.txt
 training_plan.txt
+checkpoints/
